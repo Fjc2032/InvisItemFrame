@@ -1,0 +1,8 @@
+name: InvisItemFrame
+version: '0.1-b'
+main: dev.Fjc.invisItemFrame.InvisItemFrame
+api-version: '1.21'
+prefix: InvisItemFrame
+load: STARTUP
+authors: [Fjc]
+description: Backend system for invisible item frames
