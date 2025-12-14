@@ -6,3 +6,7 @@ prefix: InvisItemFrame
 load: STARTUP
 authors: [Fjc]
 description: Backend system for invisible item frames
+
+commands:
+  invisframes:
+    description: Give invisible item frames to players.
