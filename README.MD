@@ -8,7 +8,7 @@ Provides a glowing invisible frame.
 <br>
 <br>
 If you are running this from a console, you must specify a player at the end.
-- /invisframes <normal/glow> <playername>
+- /invisframes [normal/glow] [playername]
 
 <br>
 And that's it.
